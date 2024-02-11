@@ -55,8 +55,8 @@ export function NewUser() {
               <Label htmlFor="ruby">Ruby</Label>
             </div>
             <div className="flex items-center space-x-2">
-              <Checkbox id="golang" />
-              <Label htmlFor="golang">GoLang</Label>
+              <Checkbox id="koklin" />
+              <Label htmlFor="koklin">Koklin</Label>
             </div>
           </div>
         </div>
